@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+    <CentralPackageTransitivePinningEnabled>true</CentralPackageTransitivePinningEnabled>
+    <!-- <DisableImplicitNuGetFallbackFolder>true</DisableImplicitNuGetFallbackFolder> -->
+    <AutomaticallyUseReferenceAssemblyPackages>false</AutomaticallyUseReferenceAssemblyPackages>
+    <!-- TODO: fix me-->
+    <NoWarn>$(NoWarn);NU1507</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageVersion Include="Validation" Version="2.5.42" />
+    <PackageVersion Include="VisualOn.CssParser" Version="1.0.0" />
+    <PackageVersion Include="VisualOn.NCrontab.Advanced" Version="1.2.3.3" />
+  </ItemGroup>
+</Project>
