@@ -12,6 +12,6 @@
   <ItemGroup>
     <PackageVersion Include="Validation" Version="2.5.42" />
     <PackageVersion Include="VisualOn.CssParser" Version="1.0.0" />
-    <PackageVersion Include="VisualOn.NCrontab.Advanced" Version="1.2.3.3" />
+    <PackageVersion Include="VisualOn.NCrontab.Advanced" Version="2.0.0" />
   </ItemGroup>
 </Project>
