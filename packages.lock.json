@@ -13,9 +13,9 @@
       },
       "VisualOn.CssParser": {
         "type": "Direct",
-        "requested": "[1.0.0, )",
-        "resolved": "1.0.0",
-        "contentHash": "roJy7i213/tyl2NMskxp0HKQHtWXHY58jiVwp6GGjbDp8Y0KVEfWdnMGk3AIyY8T+gCgDrZ+clu4rf9fzNPwCQ=="
+        "requested": "[2.0.0, )",
+        "resolved": "2.0.0",
+        "contentHash": "/BTi7M7dNmgSYrVCVecACQm/NqnfBOakpV7aOo9RxP+bgCzNc1LoELGCvH+drRDLy/MDZFSgjKJphg2xLokSFw=="
       },
       "VisualOn.NCrontab.Advanced": {
         "type": "Direct",
